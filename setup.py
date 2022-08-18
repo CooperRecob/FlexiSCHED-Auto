@@ -22,7 +22,7 @@ def newSched():
     tkinter.Label(text="Friday").grid(row=1, column=4)
 
     tlist = ["default",
-             "Sarbacker"]
+             ""]
 
     var, var2, var3, var4, var5 = tkinter.StringVar(), tkinter.StringVar(), tkinter.StringVar(), tkinter.StringVar(), tkinter.StringVar()
 
